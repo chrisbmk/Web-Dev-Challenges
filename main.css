@@ -1,0 +1,8 @@
+#list-items-div {
+  display: flex;
+  flex-direction: row;
+}
+
+#item-div {
+  margin-left: 30px;
+}
